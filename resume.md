@@ -77,7 +77,7 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
     disaster or conflict. [Our project](http://datafordemocracy.org/projects/refugees.html) won a
     [United Nations Unite Ideas](http://ideas.unite.un.org/) competition sponsored by the
     [Internal Displacement Monitoring Center](http://www.internal-displacement.org/).
-    We presented our solution at the UN in Geneva, and are continuing to provide support and feature developments
+    We presented our solution at the UN in Geneva, and are continuing to provide support and feature development
 
 
 ## Selected Other Experience
