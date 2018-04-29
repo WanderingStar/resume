@@ -8,8 +8,7 @@
 
 ### [RetailMeNot](http://www.retailmenot.com/) Austin TX, March 2014-Present
 
-Principal Software Engineer for RetailMeNot's Data Science team.
-Leading a group of software engineers, data scientists, analysts, and quality engineers.
+Principal Software Engineer, leading a group of software engineers, data scientists, analysts, and quality engineers.
 
 Keywords: Python, Apache Spark, Databricks
 
@@ -27,7 +26,20 @@ Keywords: Python, Apache Spark, Databricks
 *   Participated in build vs buy decisions for multiple technologies
 *   Developing systems for producing recommendations in near-real-time, rather than through batch processes
 
-Led RetailMeNot's Core Business Algorithms team, March 2014-August 2016
+
+### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
+
+*   Helping Data Scientists use their skills for social good. Providing expertise in Docker, Databases, and Software Engineering to help teams work effectively together.
+*   Working on a team that has produced a system to analyze news articles for mentions of people being displaced by disaster or conflict.
+    [Our project](http://datafordemocracy.org/projects/refugees.html) won a [United Nations Unite Ideas](http://ideas.unite.un.org/)
+    competition sponsored by the [Internal Displacement Monitoring Center](http://www.internal-displacement.org/).
+    We presented our solution at the UN in Geneva, and are continuing to provide support and feature developments
+
+
+
+### RetailMeNot, continued...
+
+Staff Software Engineer, leading RetailMeNot's Core Business Algorithms team
 
 Keywords: Python, MongoDB, RabbitMQ, AWS, MySQL, PHP
 
@@ -52,24 +64,16 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, MySQL, PHP
 *   Represented RMN at college career fairs
 *   Conducted on-campus and on-site interviews
 
+
+## Selected Other Experience
+
 ### Independent Software Development 2009-2014
 
 Designed, coded, and released iOS and MacOS X applications
+*   [Barbell Bulder iPhone app](http://barbellbuilder.com/)
 
-Keywords: Objective-C, Cocoa Touch, iOS, Core Data, MacOS X
+Keywords: Swift, Cocoa Touch, iOS, Core Data, MacOS X
 
-#### [Barbell Bulder iPhone app](http://barbellbuilder.com/)
-
-*   Created app to calculate optimal barbell loading for weightlifters
-*   Developed algorithm to figure out what plates to put on the bar
-*   Developed UI elements to display and manipulate barbells
-*   Took project from conception to release on the App Store
-
-#### [Identity MacOS X app](http://wander.ingstar.com/projects/identity.html)
-
-*   Created application that Identifies and removes duplicate files
-
-## Selected Other Experience
 
 ### [Shockwave.com](http://shockwave.com/) San Francisco CA, 2005-2009
 
@@ -77,11 +81,13 @@ Created backend for multiplayer gaming and chat. Games included poker, billiards
 
 Keywords: Java, Python, Networking, Service Discovery
 
-### [Spinner.com](http://spinner.com/) /AOL Streaming Operations San Francisco CA, 1999-2000, 2002-2004
+
+### [Spinner.com](http://spinner.com/) / AOL Streaming Operations San Francisco CA, 1999-2000, 2002-2004
 
 Developed server software for Internet radio. Managed large cluster of servers. Created system for service monitoring.
 
 Keywords: Java, Perl, Streaming Music, RRD, System Administration, Linux, Solaris
+
 
 ### [MIT Campus Wide Information Systems](http://web.mit.edu/cwis/) Cambridge MA, 1996-1997
 
@@ -89,11 +95,13 @@ Created first web campus map of MIT. Maintained the official MIT web pages.
 
 Keywords: Perl, CGI, Mapping
 
+
 ## Education
 
 ### [Massachusetts Institute of Technology](http://mit.edu/) Cambridge MA, 1994-1998
 
 Bachelor of Science degree in Mathematics with Computer Science ([18C](https://math.mit.edu/academics/undergrad/major/course18c))
+
 
 ## Work/Life Balance
 
@@ -103,4 +111,4 @@ Using Processing to project animations on the surface of a [purpose-built geodes
 
 ### [Travel](http://wander.ingstar.com/index.html#adventures)
 
-Over 50 Countries, 45 States, [10,000mi by car from London to Mongolia](http://mongolia.charityrallies.org/imeanttodothat), 30,000mi by motorcycle around the US, Canada, and Mexico. Interest in mapping, data collection, and location technologies.
+Over 50 Countries, 45 States, 10,000mi by car from London to Mongolia, 30,000mi by motorcycle around the US, Canada, and Mexico. Interest in mapping, data collection, and location technologies.
