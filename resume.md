@@ -22,13 +22,26 @@ Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
 *   Transitioned the team from a set of fragile processes to tested workflows that include inline data validation
 *   Established explicit SLAs and documented handoff processes for data sets
 *   Substantially reduced the complexity of our codebase, unlocking the ability to iterate faster with more confidence
+*   Developing systems for producing recommendations in near-real-time, rather than through batch processes
 
 ##### Business Impact
 
 *   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably
     and that everyone knows who talk to if something goes wrong
-*   Participated in build vs buy decisions for multiple technologies
-*   Developing systems for producing recommendations in near-real-time, rather than through batch processes
+*   Participated in Build vs Buy decisions for multiple technologies
+
+##### Inclusion & Workplace Culture
+
+*   Serving on the Diversity & Inclusion Council, active in several Employee Resource Groups
+*   Developed and delivered Engineering Communication workshop ("Pull Requests Without Being a Jerk")
+*   Delivered Unconscious Bias training to engineering interviewers
+
+##### Mentorship & Recruiting
+
+*   Developed and taught workshops on scoring algorithm design and command line tools
+*   Mentored software engineers
+*   Represented RMN at college career fairs, gave tech talks
+*   Conducted on-campus and on-site interviews
 
 
 #### Core Business Team, March 2014-August 2016
@@ -53,13 +66,6 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 *   Managed Amazon Web Services resources, including EC2 servers and RDS databases
 *   Managed the RMN site release process and load testing
 *   Responded to malicious traffic
-
-##### Mentorship & Recruiting
-
-*   Developed and taught a workshop in scoring algorithm design
-*   Mentored interns and junior software engineers
-*   Represented RMN at college career fairs
-*   Conducted on-campus and on-site interviews
 
 
 ### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
