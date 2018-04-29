@@ -84,7 +84,7 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 ### Independent Software Development 2009-2014
 
 Designed, coded, and released iOS and MacOS X applications
-*   [Barbell Bulder iPhone app](http://barbellbuilder.com/)
+*   [Barbell Builder iPhone app](http://barbellbuilder.com/)
 
 Keywords: Swift, Cocoa Touch, iOS, Core Data, MacOS X
 
