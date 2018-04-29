@@ -82,7 +82,7 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 
 ## Selected Other Experience
 
-### Independent Software Development 2009-2014
+### Independent Software Development, 2009-2014
 
 Designed, coded, and released iOS and MacOS X applications
 *   [Barbell Builder iPhone app](http://barbellbuilder.com/)
@@ -90,21 +90,21 @@ Designed, coded, and released iOS and MacOS X applications
 Keywords: Swift, Cocoa Touch, iOS, Core Data, MacOS X
 
 
-### [Shockwave.com](http://shockwave.com/) San Francisco CA, 2005-2009
+### [Shockwave.com](http://shockwave.com/), San Francisco CA, 2005-2009
 
 Created backend for multiplayer gaming and chat. Games included poker, billiards, and real-time 3D naval combat.
 
 Keywords: Java, Python, Networking, Service Discovery
 
 
-### [Spinner.com](http://spinner.com/) / AOL Streaming Operations San Francisco CA, 1999-2000, 2002-2004
+### [Spinner.com](http://spinner.com/) / AOL Streaming Operations, San Francisco CA, 1999-2000, 2002-2004
 
 Developed server software for Internet radio. Managed large cluster of servers. Created system for service monitoring.
 
 Keywords: Java, Perl, Streaming Music, RRD, System Administration, Linux, Solaris
 
 
-### [MIT Campus Wide Information Systems](http://web.mit.edu/cwis/) Cambridge MA, 1996-1997
+### [MIT Campus Wide Information Systems](http://web.mit.edu/cwis/), Cambridge MA, 1996-1997
 
 Created first web campus map of MIT. Maintained the official MIT web pages.
 
@@ -113,7 +113,7 @@ Keywords: Perl, CGI, Mapping
 
 ## Education
 
-### [Massachusetts Institute of Technology](http://mit.edu/) Cambridge MA, 1994-1998
+### [Massachusetts Institute of Technology](http://mit.edu/), Cambridge MA, 1994-1998
 
 Bachelor of Science degree in Mathematics with Computer Science
 ([18C](https://math.mit.edu/academics/undergrad/major/course18c))
