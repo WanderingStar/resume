@@ -17,7 +17,7 @@ Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
 ##### Software Engineering
 
 *   Extended and improved a system that uses Spark MLLib to make content recommendations for millions of users each day
-*   Introduced good software engineering practices
+*   Established good software engineering practices
     *   Introduced `git flow`, code reviews, unit and system testing
     *   Advocated for and hired a dedicated Quality Engineer
     *   Transitioned fragile processes to tested workflows that include inline data validation
