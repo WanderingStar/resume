@@ -6,63 +6,71 @@
 
 ## Recent Experience
 
-### [RetailMeNot](http://www.retailmenot.com/) Austin TX, March 2014-Present
+### [RetailMeNot](http://www.retailmenot.com/), Austin TX, March 2014-Present
+
+#### Data Science Team, August 2016-Present
 
 Principal Software Engineer, leading a group of software engineers, data scientists, analysts, and quality engineers.
 
-Keywords: Python, Apache Spark, Databricks
+Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
 
-#### Software Engineering
+##### Software Engineering
 
 *   Extended and improved a system that uses Spark MLLib to make content recommendations for millions of users each day
-*   Introduced good software engineering practices on Data Science team, including `git flow`, code reviews, unit and system testing, and hiring a dedicated Quality Engineer
+*   Introduced good software engineering practices on Data Science team, including `git flow`, code reviews, unit and
+    system testing, and hiring a dedicated Quality Engineer
 *   Transitioned the team from a set of fragile processes to tested workflows that include inline data validation
 *   Established explicit SLAs and documented handoff processes for data sets
 *   Substantially reduced the complexity of our codebase, unlocking the ability to iterate faster with more confidence
 
-#### Business Impact
+##### Business Impact
 
-*   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably and everyone knows who talk to if something goes wrong
+*   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably
+    and that everyone knows who talk to if something goes wrong
 *   Participated in build vs buy decisions for multiple technologies
 *   Developing systems for producing recommendations in near-real-time, rather than through batch processes
 
 
-### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
+#### Core Business Team, March 2014-August 2016
 
-*   Helping Data Scientists use their skills for social good. Providing expertise in Docker, Databases, and Software Engineering to help teams work effectively together.
-*   Working on a team that has produced a system to analyze news articles for mentions of people being displaced by disaster or conflict.
-    [Our project](http://datafordemocracy.org/projects/refugees.html) won a [United Nations Unite Ideas](http://ideas.unite.un.org/)
-    competition sponsored by the [Internal Displacement Monitoring Center](http://www.internal-displacement.org/).
-    We presented our solution at the UN in Geneva, and are continuing to provide support and feature developments
+Staff Software Engineer, led RetailMeNot's Core Business Algorithms team
 
+Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 
+##### Software Development
 
-### RetailMeNot, continued...
-
-Staff Software Engineer, leading RetailMeNot's Core Business Algorithms team
-
-Keywords: Python, MongoDB, RabbitMQ, AWS, MySQL, PHP
-
-#### Software Development
-
-*   Designed system to decide which coupons to show on RMN's merchant pages, the heart of the site. Brought together data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants every half hour.
+*   Designed system to decide which coupons to show on RMN's merchant pages, the heart of the site. Brought together
+    data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants
+    every half hour.
 *   Refined heuristic and machine learning algorithms to determine what order to show those coupons
-*   Ensured that the coupon selection and ordering process could scale horizontally to support multiple A/B tests being run at once
+*   Ensured that the coupon selection and ordering process could scale horizontally to support multiple A/B tests being
+    run at once
 *   Parallelized algorithm training and processing using producer/consumer model
 
-#### Production Support
+##### Production Support
 
 *   Diagnosed, triaged, and fixed urgent problems in multiple codebases
 *   Managed Amazon Web Services resources, including EC2 servers and RDS databases
 *   Managed the RMN site release process and load testing
 *   Responded to malicious traffic
 
-#### Mentorship & Recruiting
+##### Mentorship & Recruiting
 
 *   Developed and taught a workshop in scoring algorithm design
 *   Mentored interns and junior software engineers
 *   Represented RMN at college career fairs
 *   Conducted on-campus and on-site interviews
+
+
+### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
+
+*   Helping Data Scientists use their skills for social good
+*   Providing expertise in Docker, Databases, and Software Engineering to help teams work effectively together
+*   Working on a team that has produced a system to analyze news articles for mentions of people being displaced by
+    disaster or conflict. [Our project](http://datafordemocracy.org/projects/refugees.html) won a
+    [United Nations Unite Ideas](http://ideas.unite.un.org/) competition sponsored by the
+    [Internal Displacement Monitoring Center](http://www.internal-displacement.org/).
+    We presented our solution at the UN in Geneva, and are continuing to provide support and feature developments
 
 
 ## Selected Other Experience
@@ -100,15 +108,22 @@ Keywords: Perl, CGI, Mapping
 
 ### [Massachusetts Institute of Technology](http://mit.edu/) Cambridge MA, 1994-1998
 
-Bachelor of Science degree in Mathematics with Computer Science ([18C](https://math.mit.edu/academics/undergrad/major/course18c))
+Bachelor of Science degree in Mathematics with Computer Science
+([18C](https://math.mit.edu/academics/undergrad/major/course18c))
 
 
 ## Work/Life Balance
 
 ### Geometric Art
 
-Using Processing to project animations on the surface of a [purpose-built geodesic dome](http://project-dome.tumblr.com/about). [Github](https://github.com/WanderingStar/dome). [Instructables](http://www.instructables.com/id/Projection-Dome/).
+Using Processing to project animations on the surface of a
+[purpose-built geodesic dome](http://project-dome.tumblr.com/about).
+[Github](https://github.com/WanderingStar/dome).
+[Instructables](http://www.instructables.com/id/Projection-Dome/)
 
 ### [Travel](http://wander.ingstar.com/index.html#adventures)
 
-Over 50 Countries, 45 States, 10,000mi by car from London to Mongolia, 30,000mi by motorcycle around the US, Canada, and Mexico. Interest in mapping, data collection, and location technologies.
+Over 50 Countries, 45 States.
+10,000mi by car from London to Mongolia,
+30,000mi by motorcycle around the US, Canada, and Mexico.
+Interest in mapping, data collection, and location technologies.
