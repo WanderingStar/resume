@@ -10,7 +10,7 @@
 
 #### Data Science Team, August 2016-Present
 
-Principal Software Engineer, leading a group of software engineers, data scientists, analysts, and quality engineers.
+Principal Software Engineer, leading a group of software engineers, data scientists, analysts, and quality engineers
 
 Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
 
@@ -21,21 +21,21 @@ Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
     *   Introduced `git flow`, code reviews, unit and system testing
     *   Advocated for and hired a dedicated Quality Engineer
     *   Transitioned fragile processes to tested workflows that include inline data validation
-    *   Established explicit SLAs and documented handoff processes for data sets
+    *   Defined explicit SLAs and documented handoff processes for data sets
 *   Substantially reduced the complexity of our codebase, unlocking the ability to iterate faster with more confidence
 *   Developing systems for producing recommendations in near-real-time, rather than through batch processes
 
 ##### Business Impact
 
 *   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably
-    and that everyone knows who talk to if something goes wrong
-*   Participated in Build vs Buy decisions for multiple technologies
+    and that everyone knows who to talk to if something goes wrong
+*   Participated in build-vs-buy decisions for multiple technologies
 
 ##### Inclusion & Workplace Culture
 
-*   Serving on the Diversity & Inclusion Council, active in several Employee Resource Groups
+*   Serving on the Diversity & Inclusion Council; active in several Employee Resource Groups
 *   Developed and delivered Engineering Communication workshop ("Pull Requests Without Being a Jerk")
-*   Delivered Unconscious Bias training to engineering interviewers
+*   Delivered unconscious bias training to engineering interviewers
 
 ##### Mentorship & Recruiting
 
@@ -55,8 +55,8 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 
 *   Designed system to decide which coupons to show on RMN's merchant pages, the heart of the site. Brought together
     data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants
-    every half hour.
-*   Refined heuristic and machine learning algorithms to determine what order to show those coupons
+    every half hour
+*   Refined heuristic and machine learning algorithms to determine in what order to show those coupons
 *   Ensured that the coupon selection and ordering process could scale horizontally to support multiple A/B tests being
     run at once
 *   Parallelized algorithm training and processing using producer/consumer model
@@ -66,18 +66,20 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 *   Diagnosed, triaged, and fixed urgent problems in multiple codebases
 *   Managed Amazon Web Services resources, including EC2 servers and RDS databases
 *   Managed the RMN site release process and load testing
-*   Responded to malicious traffic
+*   Responded to malicious traffic by determining the source and blocking at the application or CDN level if appropriate
 
 
 ### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
 
-*   Helping Data Scientists use their skills for social good
-*   Providing expertise in Docker, Databases, and Software Engineering to help teams work effectively together
-*   Working on a team that has produced a system to analyze news articles for mentions of people being displaced by
-    disaster or conflict. [Our project](http://datafordemocracy.org/projects/refugees.html) won a
-    [United Nations Unite Ideas](http://ideas.unite.un.org/) competition sponsored by the
-    [Internal Displacement Monitoring Center](http://www.internal-displacement.org/).
-    We presented our solution at the UN in Geneva, and are continuing to provide support and feature development
+*   Helping data scientists use their skills for social good
+*   Providing expertise in Docker, databases, and software engineering to help teams work effectively together
+*   Working on a team that has produced a
+    [system to analyze news articles](http://datafordemocracy.org/projects/refugees.html) for mentions of people
+    being displaced by disaster or conflict
+    *    Won a [United Nations Unite Ideas](http://ideas.unite.un.org/) competition sponsored by the
+    [Internal Displacement Monitoring Center](http://www.internal-displacement.org/)
+    *    Presented our solution at the UN in Geneva
+    *    Consulting on further development and providing ongoing support
 
 
 ## Selected Other Experience
@@ -92,23 +94,23 @@ Keywords: Swift, Cocoa Touch, iOS, Core Data, MacOS X
 
 ### [Shockwave.com](http://shockwave.com/), San Francisco CA, 2005-2009
 
-Created backend for multiplayer gaming and chat. Games included poker, billiards, and real-time 3D naval combat.
+Created backend for multiplayer gaming and chat. Games included poker, billiards, and real-time 3D naval combat
 
 Keywords: Java, Python, Networking, Service Discovery
 
 
 ### [Spinner.com](http://spinner.com/) / AOL Streaming Operations, San Francisco CA, 1999-2000, 2002-2004
 
-Developed server software for Internet radio. Managed large cluster of servers. Created system for service monitoring.
+Developed server software for Internet radio. Managed large cluster of servers. Created system for service monitoring
 
 Keywords: Java, Perl, Streaming Music, RRD, System Administration, Linux, Solaris
 
 
 ### [MIT Campus Wide Information Systems](http://web.mit.edu/cwis/), Cambridge MA, 1996-1997
 
-Created first web campus map of MIT. Maintained the official MIT web pages.
+Created the first web campus map of MIT. Maintained the official MIT web pages
 
-Keywords: Perl, CGI, Mapping
+Keywords: Perl, CGI, GIS/ Mapping
 
 
 ## Education
