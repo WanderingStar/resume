@@ -28,8 +28,8 @@ Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
 ##### Business Impact
 
 *   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably
-    and that everyone knows who talk to if something goes wrong
-*   Participated in Build vs Buy decisions for multiple technologies
+    and that everyone knows who to talk to if something goes wrong
+*   Participated in build-vs-buy decisions for multiple technologies
 
 ##### Inclusion & Workplace Culture
 
@@ -56,7 +56,7 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 *   Designed system to decide which coupons to show on RMN's merchant pages, the heart of the site. Brought together
     data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants
     every half hour.
-*   Refined heuristic and machine learning algorithms to determine what order to show those coupons
+*   Refined heuristic and machine learning algorithms to determine in what order to show those coupons
 *   Ensured that the coupon selection and ordering process could scale horizontally to support multiple A/B tests being
     run at once
 *   Parallelized algorithm training and processing using producer/consumer model
@@ -66,13 +66,13 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 *   Diagnosed, triaged, and fixed urgent problems in multiple codebases
 *   Managed Amazon Web Services resources, including EC2 servers and RDS databases
 *   Managed the RMN site release process and load testing
-*   Responded to malicious traffic
+*   Responded to malicious traffic [add how you responded, e.g. techniques?]
 
 
 ### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
 
-*   Helping Data Scientists use their skills for social good
-*   Providing expertise in Docker, Databases, and Software Engineering to help teams work effectively together
+*   Helping data scientists use their skills for social good
+*   Providing expertise in Docker, databases, and software engineering to help teams work effectively together
 *   Working on a team that has produced a system to analyze news articles for mentions of people being displaced by
     disaster or conflict. [Our project](http://datafordemocracy.org/projects/refugees.html) won a
     [United Nations Unite Ideas](http://ideas.unite.un.org/) competition sponsored by the
@@ -108,7 +108,7 @@ Keywords: Java, Perl, Streaming Music, RRD, System Administration, Linux, Solari
 
 Created first web campus map of MIT. Maintained the official MIT web pages.
 
-Keywords: Perl, CGI, Mapping
+Keywords: Perl, CGI, GIS
 
 
 ## Education
@@ -119,7 +119,7 @@ Bachelor of Science degree in Mathematics with Computer Science
 ([18C](https://math.mit.edu/academics/undergrad/major/course18c))
 
 
-## Work/Life Balance
+## Other Interests
 
 ### Geometric Art
 
