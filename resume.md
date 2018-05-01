@@ -18,7 +18,7 @@ Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
 
 *   Extended and improved a system that uses Spark MLLib to make content recommendations for millions of users each day
 *   Established good software engineering practices
-    *   Introduced `git flow`, code reviews, unit and system testing
+    *   Introduced Git Flow, code reviews, unit and system testing
     *   Advocated for and hired a dedicated Quality Engineer
     *   Transitioned fragile processes to tested workflows that include inline data validation
     *   Defined explicit SLAs and documented handoff processes for data sets
@@ -110,7 +110,7 @@ Keywords: Java, Perl, Streaming Music, RRD, System Administration, Linux, Solari
 
 Created the first web campus map of MIT. Maintained the official MIT web pages
 
-Keywords: Perl, CGI, GIS/ Mapping
+Keywords: Perl, CGI, GIS/Mapping
 
 
 ## Education
