@@ -1,0 +1,56 @@
+body {
+  font-family: "Optima", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 8px 0px 8px 0px;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 8px 0px 8px 0px;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 8px 0px 8px 0px;
+}
+
+h4 {
+  font-size: 18px;
+  margin: 8px 0px 8px 0px;
+}
+
+h5 {
+  font-size: 18px;
+  margin: 8px 0px 8px 0px;
+}
+
+h6 {
+  font-size: 16px;
+  font-weight: normal;
+  font-style: italic;
+  margin: 8px 0px 8px 0px;
+  color: gray;
+}
+
+ul {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}

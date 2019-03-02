@@ -142,3 +142,5 @@ Visited over 50 Countries and 45 States:
 10,000mi by car from London to Mongolia,
 30,000mi by motorcycle around the US, Canada, and Mexico.
 Explores mapping, data collection, and location technologies
+
+###### Last updated March 2019
