@@ -2,7 +2,7 @@
 
 1310 Crestwood Rd, Austin TX  
 (415) 425-1861  
-[resume@wander.ingstar.com](mailto:resume@wander.ingstar.com)
+[resume@aneel.dev](mailto:resume@aneel.dev)
 
 ## Recent Experience
 
@@ -10,25 +10,30 @@
 
 #### Data Science Team, August 2016-Present
 
-Principal Software Engineer, leading a group of software engineers, data scientists, analysts, and quality engineers
+Principal Software Engineer, leading a group of software engineers, data scientists, 
+analysts, and quality engineers
 
-Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning
+Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala
 
 ##### Software Engineering
 
-*   Extended and improved a system that uses Spark MLLib to make content recommendations for millions of users each day
+*   Lead a team to deliver a new Apache Spark ML-based process for selecting content for RMN merchant pages, the heart of the website
+    *   Worked in multiple codebases in several languages (Python, Scala, SQL, Java, PHP)
+    *   Scoped and coordinated effort of a team of 5 over a 5 month effort
+    *   Ensured that code met critical business objectives while remaining readable, documented, and tested
+    *   Interfaced with other engineering teams, business analysts, content specialists, and executives
+*   Extended and improved a system that uses Spark MLLib to make content recommendations for millions of users on our mobile apps each day
 *   Established good software engineering practices
-    *   Introduced Git Flow, code reviews, unit and system testing
+    *   Introduced documented development workflows, code reviews, unit and system testing
     *   Advocated for and hired a dedicated Quality Engineer
     *   Transitioned fragile processes to tested workflows that include inline data validation
     *   Defined explicit SLAs and documented handoff processes for data sets
 *   Substantially reduced the complexity of our codebase, unlocking the ability to iterate faster with more confidence
-*   Developing systems for producing recommendations in near-real-time, rather than through batch processes
+*   Developed systems for producing recommendations in near-real-time, as well as through batch processes
 
 ##### Business Impact
 
-*   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably
-    and that everyone knows who to talk to if something goes wrong
+*   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably and that everyone knows who to talk to if something goes wrong
 *   Participated in build-vs-buy decisions for multiple technologies
 
 ##### Inclusion & Workplace Culture
@@ -53,9 +58,7 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 
 ##### Software Development
 
-*   Designed system to decide which coupons to show on RMN's merchant pages, the heart of the site. Brought together
-    data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants
-    every half hour
+*   Designed system to decide which coupons to show on RMN's merchant pages, the heart of the site. Brought together data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants every half hour
 *   Refined heuristic and machine learning algorithms to determine in what order to show those coupons
 *   Ensured that the coupon selection and ordering process could scale horizontally to support multiple A/B tests being
     run at once
