@@ -13,7 +13,7 @@
 Principal Software Engineer, leading a group of software engineers, data scientists, 
 analysts, and quality engineers
 
-###### Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala, Elastic Map Reduce
+###### Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala, AWS Elastic Map Reduce
 
 ##### Software Engineering
 
