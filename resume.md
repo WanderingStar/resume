@@ -18,7 +18,7 @@ analysts, and quality engineers
 ##### Software Engineering
 
 *   Led a team to deliver a new content selection process for the most important pages on the RMN site, which increased clickthrough rate by 7%
-    *   Worked in multiple codebases in several languages (Python, Scala, SQL, Java, PHP)
+    *   Worked in multiple codebases in several languages: Python, Scala, SQL, Java, and PHP
     *   Scoped and coordinated effort of a team of six to eight people for two quarters
     *   Ensured that code met critical business objectives while remaining readable, documented, and tested
     *   Interfaced with other engineering teams, business analysts, content specialists, and executives
@@ -46,10 +46,11 @@ analysts, and quality engineers
 
 ##### Mentorship & Recruiting
 
-*   Developed and taught workshops on scoring algorithm design and command line tools
 *   Mentored software engineers
 *   Represented RMN at college career fairs, delivered tech talks about RMN's research
-*   Conducted on-campus and on-site interviews
+*   Conducted more than 50 on-campus and 100 on-site interviews for college and industry candidates
+*   Helped develop behavioral and technical interview processes
+*   Gave workshops on scoring algorithm design and command line tools
 
 
 #### Core Business Team, March 2014-August 2016
