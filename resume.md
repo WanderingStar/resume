@@ -13,11 +13,11 @@
 Principal Software Engineer, leading a group of software engineers, data scientists, 
 analysts, and quality engineers
 
-Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala
+###### Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala
 
 ##### Software Engineering
 
-*   Lead a team to deliver a new Apache Spark ML-based process for selecting content for RMN merchant pages, the heart of the website
+*   Led a team to deliver a new Apache Spark ML-based process for selecting content for RMN merchant pages, the heart of the website
     *   Worked in multiple codebases in several languages (Python, Scala, SQL, Java, PHP)
     *   Scoped and coordinated effort of a team of 5 over a 5 month effort
     *   Ensured that code met critical business objectives while remaining readable, documented, and tested
@@ -54,7 +54,7 @@ Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala
 
 Staff Software Engineer, led RetailMeNot's Core Business Algorithms team
 
-Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
+###### Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 
 ##### Software Development
 
@@ -92,28 +92,28 @@ Keywords: Python, MongoDB, RabbitMQ, AWS, Docker, MySQL, PHP
 Designed, coded, and released iOS and MacOS X applications
 *   [Barbell Builder iPhone app](http://barbellbuilder.com/)
 
-Keywords: Swift, Cocoa Touch, iOS, Core Data, MacOS X
+###### Keywords: Swift, Cocoa Touch, iOS, Core Data, MacOS X
 
 
 ### [Shockwave.com](http://shockwave.com/), San Francisco CA, 2005-2009
 
 Created backend for multiplayer gaming and chat. Games included poker, billiards, and real-time 3D naval combat
 
-Keywords: Java, Python, Networking, Service Discovery
+###### Keywords: Java, Python, Networking, Service Discovery
 
 
 ### [Spinner.com](http://spinner.com/) / AOL Streaming Operations, San Francisco CA, 1999-2000, 2002-2004
 
 Developed server software for Internet radio. Managed large cluster of servers. Created system for service monitoring
 
-Keywords: Java, Perl, Streaming Music, RRD, System Administration, Linux, Solaris
+###### Keywords: Java, Perl, Streaming Music, RRD, System Administration, Linux, Solaris
 
 
 ### [MIT Campus Wide Information Systems](http://web.mit.edu/cwis/), Cambridge MA, 1996-1997
 
 Created the first web campus map of MIT. Maintained the official MIT web pages
 
-Keywords: Perl, CGI, GIS/Mapping
+###### Keywords: Perl, CGI, GIS/Mapping
 
 
 ## Education
