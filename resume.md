@@ -13,16 +13,16 @@
 Principal Software Engineer, leading a group of software engineers, data scientists, 
 analysts, and quality engineers
 
-###### Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala
+###### Keywords: Python, Apache Spark, Databricks, Big Data, Machine Learning, Scala, Elastic Map Reduce
 
 ##### Software Engineering
 
-*   Led a team to deliver a new Apache Spark ML-based process for selecting content for RMN merchant pages, the heart of the website
+*   Led a team to deliver a new content selection process for the most important pages on the RMN site, which increased clickthrough rate by 7%
     *   Worked in multiple codebases in several languages (Python, Scala, SQL, Java, PHP)
-    *   Scoped and coordinated effort of a team of 5 over a 5 month effort
+    *   Scoped and coordinated effort of a team of six to eight people for two quarters
     *   Ensured that code met critical business objectives while remaining readable, documented, and tested
     *   Interfaced with other engineering teams, business analysts, content specialists, and executives
-*   Extended and improved a system that uses Spark MLLib to make content recommendations for millions of users on our mobile apps each day
+*   Extended and improved a system that makes content recommendations for millions of mobile app users daily, which improved engagement by 29%
 *   Established good software engineering practices
     *   Introduced documented development workflows, code reviews, unit and system testing
     *   Advocated for and hired a dedicated Quality Engineer
@@ -33,12 +33,14 @@ analysts, and quality engineers
 
 ##### Business Impact
 
-*   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably and that everyone knows who to talk to if something goes wrong
+*   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably
+*   Documented responsibilities and procedures in case of production incidents
 *   Participated in build-vs-buy decisions for multiple technologies
+*   Reviewed architectural decisions for new and existing systems across the engineering organization
 
 ##### Inclusion & Workplace Culture
 
-*   Serving on the Diversity & Inclusion Council; active in several Employee Resource Groups
+*   Served on the Diversity & Inclusion Council; participated in several Employee Resource Groups
 *   Developed and delivered Engineering Communication workshop ("Pull Requests Without Being a Jerk")
 *   Delivered unconscious bias training to engineering interviewers
 
@@ -46,7 +48,7 @@ analysts, and quality engineers
 
 *   Developed and taught workshops on scoring algorithm design and command line tools
 *   Mentored software engineers
-*   Represented RMN at college career fairs, gave tech talks
+*   Represented RMN at college career fairs, delivered tech talks about RMN's research
 *   Conducted on-campus and on-site interviews
 
 
@@ -58,7 +60,7 @@ Staff Software Engineer, led RetailMeNot's Core Business Algorithms team
 
 ##### Software Development
 
-*   Designed system to decide which coupons to show on RMN's merchant pages, the heart of the site. Brought together data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants every half hour
+*   Designed system to decide which coupons were eligible to show on RMN's merchant pages, the heart of the site. Brought together data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants every half hour
 *   Refined heuristic and machine learning algorithms to determine in what order to show those coupons
 *   Ensured that the coupon selection and ordering process could scale horizontally to support multiple A/B tests being
     run at once
@@ -74,15 +76,15 @@ Staff Software Engineer, led RetailMeNot's Core Business Algorithms team
 
 ### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
 
-*   Helping data scientists use their skills for social good
-*   Providing expertise in Docker, databases, and software engineering to help teams work effectively together
-*   Working on a team that has produced a
+*   Helps data scientists use their skills for social good
+*   Provides expertise in Docker, databases, and software engineering to help teams work effectively together
+*   Worked on a team that produced a
     [system to analyze news articles](http://datafordemocracy.org/projects/refugees.html) for mentions of people
     being displaced by disaster or conflict
     *    Won a [United Nations Unite Ideas](http://ideas.unite.un.org/) competition sponsored by the
     [Internal Displacement Monitoring Center](http://www.internal-displacement.org/)
     *    Presented our solution at the UN in Geneva
-    *    Consulting on further development and providing ongoing support
+    *    Consulted on further development and provided ongoing support
 
 
 ## Selected Other Experience
@@ -128,14 +130,14 @@ Bachelor of Science degree in Mathematics with Computer Science
 
 ### Geometric Art
 
-Using Processing to project animations on the surface of a
-[purpose-built geodesic dome](http://project-dome.tumblr.com/about).
-[Github](https://github.com/WanderingStar/dome).
+Projects animations on the surface of a
+[purpose-built geodesic dome](http://project-dome.tumblr.com/about) using Processing:
+[Github](https://github.com/WanderingStar/dome),
 [Instructables](http://www.instructables.com/id/Projection-Dome/)
 
 ### [Travel](http://wander.ingstar.com/index.html#adventures)
 
-Over 50 Countries, 45 States.
+Visited over 50 Countries and 45 States:
 10,000mi by car from London to Mongolia,
 30,000mi by motorcycle around the US, Canada, and Mexico.
-Interest in mapping, data collection, and location technologies.
+Explores mapping, data collection, and location technologies
