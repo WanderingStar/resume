@@ -14,4 +14,6 @@ I currently live in Austin, Texas and am not looking to relocate, but am open to
 
 ## [Resume](resume.html)
 
+## [Resume for Printing](resume.pdf)
+
 ## [Personal Website](https://wander.ingstar.com)
