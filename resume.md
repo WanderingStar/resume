@@ -30,13 +30,13 @@ analysts, and quality engineers
     *   Defined explicit SLAs and documented handoff processes for data sets
 *   Substantially reduced the complexity of our codebase, unlocking the ability to iterate faster with more confidence
 *   Developed systems for producing recommendations in near-real-time, as well as through batch processes
+*   Reviewed architectural decisions for new and existing systems across the engineering organization
 
 ##### Business Impact
 
 *   Managed relationships with internal stakeholders to ensure that data flows into and out of our systems predictably
-*   Documented responsibilities and procedures in case of production incidents
+*   Established responsibilities and procedures in case of production incidents
 *   Participated in build-vs-buy decisions for multiple technologies
-*   Reviewed architectural decisions for new and existing systems across the engineering organization
 
 ##### Inclusion & Workplace Culture
 
@@ -61,7 +61,7 @@ Staff Software Engineer, led RetailMeNot's Core Business Algorithms team
 
 ##### Software Development
 
-*   Designed system to decide which coupons were eligible to show on RMN's merchant pages, the heart of the site. Brought together data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants every half hour
+*   Designed system to decide which coupons were eligible to be shown. Brought together data from disparate sources for efficient processing of millions of coupons for tens of thousands of merchants every half hour
 *   Refined heuristic and machine learning algorithms to determine in what order to show those coupons
 *   Ensured that the coupon selection and ordering process could scale horizontally to support multiple A/B tests being
     run at once
