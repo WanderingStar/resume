@@ -12,8 +12,4 @@ I enjoy working with a diverse, tightly-knit, collaborative team, on projects wi
 
 I currently live in Austin, Texas and am not looking to relocate, but am open to remote work on the right team.
 
-## [Resume](resume.html)
-
-## [Resume for Printing](resume.pdf)
-
-## [Personal Website](https://wander.ingstar.com)
+## [Resume](resume.html) • [Print Version](resume.pdf) • [Personal Website](https://wander.ingstar.com) • [LinkedIn](http://www.linkedin.com/in/nazareth) • [StackOverflow](https://stackoverflow.com/story/aneel) • [Github](https://github.com/WanderingStar)
