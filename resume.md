@@ -80,10 +80,10 @@ Staff Software Engineer, led RetailMeNot's Core Business Algorithms team
 *   Responded to malicious traffic by determining the source and blocking at the application or CDN level if appropriate
 
 
-### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Present
+### [Data For Democracy](http://datafordemocracy.org/), Feb 2017-Dec 2018
 
-*   Helps data scientists use their skills for social good
-*   Provides expertise in Docker, databases, and software engineering to help teams work effectively together
+*   Helped data scientists use their skills for social good
+*   Provided expertise in Docker, databases, and software engineering to help teams work effectively together
 *   Worked on a team that produced a
     [system to analyze news articles](http://datafordemocracy.org/projects/refugees.html) for mentions of people
     being displaced by disaster or conflict
