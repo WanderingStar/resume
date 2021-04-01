@@ -6,9 +6,14 @@
 
 ## Recent Experience
 
-### [RetailMeNot](http://www.retailmenot.com/), Austin TX, March 2014-Present
+### [Confluent](https://confluent.io), Austin TX, June 2019-Present
 
-#### Data Science Team, August 2016-Present
+Principal Software Engineer, working on the Platform Security team to build features that keep our customers'
+data safe.
+
+### [RetailMeNot](http://www.retailmenot.com/), Austin TX, March 2014-May 2019
+
+#### Data Science Team, August 2016-May 2019
 
 Principal Software Engineer, leading a group of software engineers, data scientists, 
 analysts, and quality engineers
