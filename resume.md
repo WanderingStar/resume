@@ -11,6 +11,8 @@
 Principal Software Engineer, working on the Platform Security team to build features that keep our customers'
 data safe.
 
+###### Keywords: Kafka, Java, Security, Role Based Access Control
+
 ### [RetailMeNot](http://www.retailmenot.com/), Austin TX, March 2014-May 2019
 
 #### Data Science Team, August 2016-May 2019
@@ -148,4 +150,4 @@ Visited over 50 Countries and 45 States:
 30,000mi by motorcycle around the US, Canada, and Mexico.
 Explores mapping, data collection, and location technologies
 
-###### Last updated March 2019
+###### Last updated March 2021
